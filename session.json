@@ -1,11 +1,11 @@
 {
-  "creds": {
+  "creds": {gavindu}
     "noiseKey": {
       "private": {
         "type": "Buffer",
         "data": "uCfQygRbhDEDzoIDC2/sUhl0+fjNjHZA1HxgP9u0AGI="
       },
-      "public": {
+      "public": {gavindu}
         "type": "Buffer",
         "data": "KenbbDE99UVPi0j46vgGI119mQgoiAC2k+UGM5aH6ls="
       }
